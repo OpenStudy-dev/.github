@@ -7,8 +7,6 @@
 
 <p align="center"><em>A self-hostable study dashboard with a built-in MCP server,<br>so Claude can read, write, and teach from your semester.</em></p>
 
-[`OpenStudy`](https://github.com/openstudy-dev/OpenStudy)
-
 ---
 
 ## What OpenStudy is
