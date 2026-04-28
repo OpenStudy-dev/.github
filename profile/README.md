@@ -15,10 +15,9 @@ A dashboard for your eyes and an MCP server for Claude's. Track courses, lecture
 
 **Your Claude subscription does the thinking. OpenStudy is the source of truth.**
 
-## Licensing &amp; trademark
+## Licensing
 
 - **Code:** [MIT](https://github.com/openstudy-dev/OpenStudy/blob/main/LICENSE)
-- **Name &amp; logo:** reserved trademarks of OpenStudy. See [`TRADEMARK.md`](https://github.com/openstudy-dev/OpenStudy/blob/main/TRADEMARK.md) for the full policy. Self-host and nominative use are welcome; commercial use of the marks requires permission.
 
 ## Contact
 
